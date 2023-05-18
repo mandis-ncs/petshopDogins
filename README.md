@@ -77,14 +77,4 @@ extension=php_mongodb.dll
 <br><br>
 ## Acesso ao CMS
 
-<p>Para logar como vendedor, utilize o acesso de administrador. Para isso crie uma coleção chamada 'users' no banco de dados 'dogin' e insira o documento abaixo</p>
-
-```
-[{
-  "_id": {
-    "$oid": "6446ac8a6ed81cfd9000a4dc"
-  },
-  "username": "admin",
-  "password": "admin"
-}]
-```
+<p>Para logar como vendedor, utilize o acesso de administrador. Para isso, use o nome de usuário 'admin' e a senha 'admin' para na tela de login. Assim, poderá acessar o CMS.

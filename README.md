@@ -1,4 +1,4 @@
-# Petshop Dogin's
+# Petshop Dogin's 🐶💙
 Dogin's é um petshop online com um design AUUdacioso 🐶💙 Nele, você pode vizualizar peodutos em destaque na Home, pesquisar por categoria ou por raça de bixinho, e até ver quais são as marcas mais AUUdaciosas que estão bombando! 💙💙💙
 
 ### Bora conhecer?
@@ -91,7 +91,14 @@ extension=php_mongodb.dll
 <p>Para logar como vendedor, utilize o acesso de administrador. Para isso, use o nome de usuário 'admin' e a senha 'admin' para na tela de login. Assim, poderá acessar o CMS.
 
 ## Nosso Team AUUdacioso 🐶💙
-
+You can see more about us in our profile:
+* [Isabelle](https://github.com/isefshondo)
+* [Amanda](https://github.com/mandis-ncs)
+* [Junior](https://github.com/aasjunior)
+* [Elizama](https://github.com/Eliz-ama)
+* [Nayara](https://github.com/NahAzevedo)
+* André
+* Eliana
 
 ###### Aviso
 Esta é uma iniciativa acadêmica, sendo assim, não possui todas as funcionalidades e características de uma aplicação real.

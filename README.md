@@ -2,13 +2,16 @@
 Dogin's é um petshop online com um design AUUdacioso 🐶💙 Nele, você pode vizualizar peodutos em destaque na Home, pesquisar por categoria ou por raça de bixinho, e até ver quais são as marcas mais AUUdaciosas que estão bombando! 💙💙💙
 
 ### Bora conhecer?
-![recording-2023-11-30-11-38-49](https://github.com/isefshondo/petshopDogins/assets/85968113/c9321367-3224-42a9-a56b-35927745abac)
+<p align="center">
+  <img src="https://github.com/isefshondo/petshopDogins/assets/85968113/c9321367-3224-42a9-a56b-35927745abac" width="700">
+  <img src="https://github.com/isefshondo/petshopDogins/assets/85968113/170c6afa-44e6-4497-aab7-ee3142e1701c" width="700" height="">
+</p>
 
 ###### Descrição
 <p> O projeto consiste em um ecommerce onde um administrador poderá realizar o gerenciamento dos produtos cadastrados, incluindo a adição, edição e exclusão de produtos, 
 bem como a definição de seus preços, descrições e imagens. O estoque cadastrado é atualizado e mostrado na Home para o cliente. </p><br>
 
-<br> Opa, agora o Dogin's tem a <strong> 💙 versão mobile 💙 </strong> mais AUUdaciosa que já se viu, olha o link aí: 
+<br> Opa, agora o Dogin's tem a <strong> 💙 versão mobile 💙 </strong> mais AUUdaciosa que já se viu, [venha conhecer](https://github.com/isefshondo/PetshopDoginsMobile) 🐶💙
 
 ###### Scrum Agile
 <aside><strong>Este projeto tem como intuito colocar em prática a metodologia Scrum, uma abordagem ágil de gerenciamento de projetos que se baseia em sprints, 

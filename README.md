@@ -1,12 +1,20 @@
 # Petshop Dogin's
-<aside><strong>Este projeto tem como intuito colocar em prática a metodologia Scrum, uma abordagem ágil de gerenciamento de projetos que se baseia em sprints, 
-reuniões diárias e retrospectivas para entregar um produto de alta qualidade de forma eficiente e eficaz.</strong></aside>
+Dogin's é um petshop online com um design AUUdacioso 🐶💙 Nele, você pode vizualizar peodutos em destaque na Home, pesquisar por categoria ou por raça de bixinho, e até ver quais são as marcas mais AUUdaciosas que estão bombando! 💙💙💙
+
+### Bora conhecer?
+
 
 ###### Descrição
 <p> O projeto consiste em um ecommerce onde um administrador poderá realizar o gerenciamento dos produtos cadastrados, incluindo a adição, edição e exclusão de produtos, 
-bem como a definição de seus preços, descrições e imagens.</p><br>
+bem como a definição de seus preços, descrições e imagens. O estoque cadastrado é atualizado e mostrado na Home para o cliente. </p><br>
 
-## Arquitetura de Arquivos
+<br> Opa, agora o Dogin's tem a <strong> 💙 versão mobile 💙 </strong> mais AUUdaciosa que já se viu, olha o link aí: 
+
+###### Scrum Agile
+<aside><strong>Este projeto tem como intuito colocar em prática a metodologia Scrum, uma abordagem ágil de gerenciamento de projetos que se baseia em sprints, 
+reuniões diárias e retrospectivas para entregar um produto de alta qualidade de forma eficiente e eficaz.</strong></aside>
+
+## Arquitetura de Arquivos 🐶💙
 
 <li><strong>📁 app/</strong>:  Diretório contendo a implementação do E-commerce, onde os clientes poderão visualizar os produtos, realizar compras, entre outras atividades relacionadas ao uso da plataforma.</li><br>
 <li><strong>📁 cms/</strong>: Diretório onde se encontra o sistema de gerenciamento do E-commerce. É através deste sistema que o administrador poderá cadastrar, atualizar ou excluir produtos, entre outras atividades de gerenciamento.</li><br>
@@ -23,7 +31,7 @@ bem como a definição de seus preços, descrições e imagens.</p><br>
 <li><strong>📁 public/</strong>: Contém os demais arquivos estáticos utilizados na aplicação pelo Ecommerce e CMS (Javascript, CSS, imagens)</li><br><br>
 
 
-## Como rodar este projeto?
+## Como rodar este projeto? 🐶💙
 
 <p>Clone este repositório em computador utilizando o comando:</p>
 
@@ -31,7 +39,7 @@ bem como a definição de seus preços, descrições e imagens.</p><br>
 git clone https://github.com/isefsh/petshopDogins.git
 ```
 
-# Configurando o MongoDB para utilização com PHP
+# Configurando o MongoDB para utilização com PHP 🐶💙
 
 ###### Requisitos
 
@@ -58,7 +66,7 @@ git clone https://github.com/isefsh/petshopDogins.git
 ```
 <br>
 
-## Instalação da extensão do MongoDB
+## Instalação da extensão do MongoDB 🐶💙
 
 <p>Caso o MongoDB não esteja instalado em seu servidor, você pode baixar a extensão PHP do MongoDB da página oficial do PECL (PHP Extension Community Library)</p>
 
@@ -75,6 +83,12 @@ extension=php_mongodb.dll
 4. Salve o arquivo php.ini e reinicie o servidor web (Apache, Nginx, etc.) para que as alterações tenham efeito.
 
 <br><br>
-## Acesso ao CMS
+## Acesso ao CMS 🐶💙
 
 <p>Para logar como vendedor, utilize o acesso de administrador. Para isso, use o nome de usuário 'admin' e a senha 'admin' para na tela de login. Assim, poderá acessar o CMS.
+
+## Nosso Team AUUdacioso 🐶💙
+
+
+###### Aviso
+Esta é uma iniciativa acadêmica, sendo assim, não possui todas as funcionalidades e características de uma aplicação real.

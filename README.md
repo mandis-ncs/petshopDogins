@@ -3,8 +3,8 @@ Dogin's é um petshop online com um design AUUdacioso 🐶💙 Nele, você pode 
 
 ### Bora conhecer?
 <p align="center">
-  <img src="https://github.com/isefshondo/petshopDogins/assets/85968113/c9321367-3224-42a9-a56b-35927745abac" width="700">
-  <img src="https://github.com/isefshondo/petshopDogins/assets/85968113/170c6afa-44e6-4497-aab7-ee3142e1701c" width="700" height="">
+  <img src="https://github.com/isefshondo/petshopDogins/assets/85968113/c9321367-3224-42a9-a56b-35927745abac" width="700" alt="gif home">
+  <img src="https://github.com/isefshondo/petshopDogins/assets/85968113/170c6afa-44e6-4497-aab7-ee3142e1701c" width="700" height="" alt="imagens interfaces">
 </p>
 
 ###### Descrição

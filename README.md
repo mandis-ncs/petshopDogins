@@ -2,7 +2,7 @@
 Dogin's é um petshop online com um design AUUdacioso 🐶💙 Nele, você pode vizualizar peodutos em destaque na Home, pesquisar por categoria ou por raça de bixinho, e até ver quais são as marcas mais AUUdaciosas que estão bombando! 💙💙💙
 
 ### Bora conhecer?
-
+![recording-2023-11-30-11-38-49](https://github.com/isefshondo/petshopDogins/assets/85968113/c9321367-3224-42a9-a56b-35927745abac)
 
 ###### Descrição
 <p> O projeto consiste em um ecommerce onde um administrador poderá realizar o gerenciamento dos produtos cadastrados, incluindo a adição, edição e exclusão de produtos, 
